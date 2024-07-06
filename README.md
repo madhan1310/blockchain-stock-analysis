@@ -36,5 +36,6 @@ Key analyses include:
 - **Data Storage**: Hive scripts and HDFS structure.
 - **Data Analysis**: Pig scripts, Hive queries, and Spark jobs for analysis.
 
-This project showcases the ability to work with big data tools, handle varied data sources, and derive meaningful insights from large-scale financial and blockchain datasets.
+## Showcase
 
+This project showcases the ability to work with big data tools, handle varied data sources, and derive meaningful insights from large-scale financial and blockchain datasets.
