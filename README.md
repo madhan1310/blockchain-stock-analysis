@@ -39,3 +39,19 @@ Key analyses include:
 ## Showcase
 
 This project showcases the ability to work with big data tools, handle varied data sources, and derive meaningful insights from large-scale financial and blockchain datasets.
+
+## Repository Contents
+
+* `Configuration files/`: Contains configuration files for data ingestion
+
+* `Data files/`: Holds raw data used in the analysis
+  
+* `Jupyter notebooks/`: Jupyter notebooks for data processing and analysis
+  
+* `Output data/`: Stores processed and output data
+  
+* `Project Report/`: Comprehensive project documentation
+ 
+* `scripts/`: Contains scripts for data processing and analysis
+  
+* `README.md`: Overview of the project, including setup and execution instructions
